@@ -1,0 +1,7 @@
+Flask
+uwsgi
+
+fastapi
+uvicorn[standard]
+
+locust

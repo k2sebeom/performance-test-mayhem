@@ -1,0 +1,11 @@
+[package]
+name = "helloworld"
+version = "0.1.0"
+edition = "2021"
+description = "An test program"
+license = "MIT"
+
+[dependencies]
+actix-web = "4.0"
+serde = "1.0"
+serde_json = "1.0"
